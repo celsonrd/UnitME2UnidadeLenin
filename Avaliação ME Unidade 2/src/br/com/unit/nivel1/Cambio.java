@@ -26,6 +26,7 @@ public class Cambio {
 		valor = ler.nextFloat();
 		System.out.println("R$" + valor + " equivale a $" + cambio*valor);
 		
+		
 		System.out.println("+++++++++++++++++++++++++++++++\n\n");
 
 

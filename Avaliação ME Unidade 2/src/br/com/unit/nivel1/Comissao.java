@@ -41,6 +41,8 @@ public class Comissao {
 		System.out.println("Valor total da venda: R$ " + preco*quantidade);
 		System.out.println("valor total da comissão: R$ " + (preco*quantidade)*0.05);
 		
+		
+		
 		System.out.println("+++++++++++++++++++++++++++++++\n\n");
 
 
