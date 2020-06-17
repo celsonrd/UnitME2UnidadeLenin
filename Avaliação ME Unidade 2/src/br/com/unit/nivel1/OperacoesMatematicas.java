@@ -5,7 +5,7 @@ public class OperacoesMatematicas {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-
+		
 		/*
 		 * 3) Ler quatro valores numéricos inteiros e apresentar o resultado dois a dois da adição e 
 		 * multiplicação entre os valores lidos, 
